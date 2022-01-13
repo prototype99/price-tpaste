@@ -1,0 +1,789 @@
+ID;PGnumeric;N;E
+P;PGeneral
+P;ESans;M200
+F;FD0C;P0;SM1;C1
+F;FD0C;P0;SM1;C2
+F;FD0C;P0;SM1;C3
+F;FD0C;P0;SM1;C4
+F;FD0C;P0;SM1;C5
+F;FD0C;P0;SM1;C6
+F;FD0C;P0;SM1;C7
+F;FD0C;P0;SM1;C8
+F;FD0C;P0;SM1;C9
+F;FD0C;P0;SM1;C10
+F;FD0C;P0;SM1;C11
+F;FD0C;P0;SM1;C12
+F;FD0C;P0;SM1;C13
+F;FD0C;P0;SM1;C14
+F;FD0C;P0;SM1;C15
+F;FD0C;P0;SM1;C16
+F;FD0C;P0;SM1;C17
+F;FD0C;P0;SM1;C18
+F;FD0C;P0;SM1;C19
+F;FD0C;P0;SM1;Y1;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y2;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y3;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y4;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y5;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y6;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y7;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y8;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y9;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y10;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y11;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y12;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y13;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y14;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y15;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y16;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y17;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y18;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y19;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y20;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y21;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y22;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;FD0C;P0;SM1;Y23;X1
+F;FD0C;P0;SM1;X2
+F;FD0C;P0;SM1;X3
+F;FD0C;P0;SM1;X4
+F;FD0C;P0;SM1;X5
+F;FD0C;P0;SM1;X6
+F;FD0C;P0;SM1;X7
+F;FD0C;P0;SM1;X8
+F;FD0C;P0;SM1;X9
+F;FD0C;P0;SM1;X10
+F;FD0C;P0;SM1;X11
+F;FD0C;P0;SM1;X12
+F;FD0C;P0;SM1;X13
+F;FD0C;P0;SM1;X14
+F;FD0C;P0;SM1;X15
+F;FD0C;P0;SM1;X16
+F;FD0C;P0;SM1;X17
+F;FD0C;P0;SM1;X18
+F;FD0C;P0;SM1;X19
+F;W1 1 19
+F;W2 2 18
+F;W3 3 14
+F;W4 4 19
+F;W5 5 19
+F;W6 6 15
+F;W7 7 20
+F;W8 8 19
+F;W9 9 19
+F;W10 10 28
+F;W11 11 19
+F;W12 12 21
+F;W13 13 19
+F;W14 14 19
+F;W15 15 19
+F;W16 16 19
+F;W17 17 21
+F;W18 18 20
+F;W19 19 17
+B;Y23;X19;D0 0 22 18
+O;A100 0.001000;L;V0
+C;Y1;X1;K"aquafresh intense clean"
+C;X5;K"macleans"
+C;X6;K"marvis"
+C;X7;K"oral b"
+C;X8;K"corsodyl"
+C;X9;K"colgate"
+C;X14;K"sainsburys"
+C;X15;K"morrisons"
+C;X16;K"superdrug"
+C;X17;K"horace"
+C;X18;K"kingfisher"
+C;X19;K"denttabs"
+C;Y2;X1;K"deep action"
+C;X2;K"lasting fresh"
+C;X3;K"complete care"
+C;X4;K"triple protection"
+C;X5;K"fresh mint"
+C;X6;K"classic strong mint"
+C;X7;K"pro expert"
+C;X8;K"ultra clean"
+C;X9;K"total original"
+C;X10;K"cavity protection"
+C;X11;K"triple action"
+C;X12;K"max fresh"
+C;X13;K"freh gel"
+C;X14;K"sainsburys"
+C;X15;K"savers"
+C;X16;K"procare"
+C;X17;K"watermelon"
+C;X18;K"mint"
+C;X19;K"denttabs"
+C;Y3;X1;K"aqua"
+C;X2;K"aqua"
+C;X3;K"aqua"
+C;X4;K"aqua"
+C;X5;K"aqua"
+C;X6;K"aluminium hydroxide"
+C;X7;K"glycerin"
+C;X8;K"sodium bicarbonate"
+C;X9;K"aqua"
+C;X10;K"Dicalcium Phosphate Dihydrate"
+C;X11;K"aqua"
+C;X12;K"sorbitol"
+C;X13;K"sorbitol"
+C;X14;K"aqua"
+C;X15;K"aqua"
+C;X16;K"aqua"
+C;X17;K"calcium carbonate"
+C;X18;K"calcium carbonate"
+C;X19;K"microcrystalline cellulose"
+C;Y4;X1;K"sorbitol"
+C;X2;K"sorbitol"
+C;X3;K"hydrated silica"
+C;X4;K"hydrated silica"
+C;X5;K"hydrated silica"
+C;X6;K"aqua"
+C;X7;K"hydrated silica"
+C;X8;K"aqua"
+C;X9;K"glycerin"
+C;X10;K"aqua"
+C;X11;K"glycerin"
+C;X12;K"aqua"
+C;X13;K"aqua"
+C;X14;K"sorbitol"
+C;X15;K"sorbitol"
+C;X16;K"sorbitol"
+C;X17;K"aqua"
+C;X18;K"glycerin"
+C;X19;K"sodium bicarbonate"
+C;Y5;X1;K"hydrated silica"
+C;X2;K"hydrated silica"
+C;X3;K"sorbitol"
+C;X4;K"sorbitol"
+C;X5;K"sorbitol"
+C;X6;K"sorbitol"
+C;X7;K"Sodium Hexametaphosphate"
+C;X8;K"glycerin"
+C;X9;K"hydrated silica"
+C;X10;K"glycerin"
+C;X11;K"hydrated silica"
+C;X12;K"hydrated silica"
+C;X13;K"hydrated silica"
+C;X14;K"hydrated silica"
+C;X15;K"hydrated silica"
+C;X16;K"hydrated silica"
+C;X17;K"glycerin"
+C;X18;K"aqua"
+C;X19;K"silica"
+C;Y6;X1;K"glycerin"
+C;X2;K"glycerin"
+C;X3;K"glycerin"
+C;X4;K"glycerin"
+C;X5;K"glycerin"
+C;X6;K"glycerin"
+C;X7;K"aqua"
+C;X8;K"hydrated silica"
+C;X9;K"PVM/MA copolymer"
+C;X10;K"sodium lauryl sulfate"
+C;X11;K"sodium lauryl sulfate"
+C;X12;K"sodium lauryl sulfate"
+C;X13;K"sodium lauryl sulfate"
+C;X14;K"sodium lauryl sulfate"
+C;X15;K"sodium lauryl sulfate"
+C;X16;K"potassium nitrate"
+C;X17;K"sorbitol"
+C;X18;K"sodium lauroyl sarcosinate"
+C;X19;K"sodium lauryl glutamate"
+C;Y7;X1;K"pentasodium triphosphate"
+C;X2;K"pentasodium triphosphate"
+C;X3;K"PEG-6"
+C;X4;K"sodium lauryl sulfate"
+C;X5;K"sodium lauryl sulfate"
+C;X6;K"silica"
+C;X7;K"sodium gluconate"
+C;X8;K"cocamidopropyl betaine"
+C;X9;K"sodium lauryl sulfate"
+C;X10;K"cellulose gum"
+C;X11;K"cellulose gum"
+C;X12;K"aroma"
+C;X13;K"PEG-12"
+C;X14;K"cellulose gum"
+C;X15;K"cellulose gum"
+C;X16;K"sodium lauryl sulfate"
+C;X17;K"dicalcium phosphate dihydrate"
+C;X18;K"cellulose gum"
+C;X19;K"magnesium stearate"
+C;Y8;X1;K"PEG-6"
+C;X2;K"PEG-6"
+C;X3;K"sodium lauryl sulfate"
+C;X4;K"xanthum gum"
+C;X5;K"aroma"
+C;X6;K"aroma"
+C;X7;K"sodium lauryl sulfate"
+C;X8;K"aroma"
+C;X9;K"cellulose gum"
+C;X10;K"aroma"
+C;X11;K"aroma"
+C;X12;K"PEG-12"
+C;X13;K"aroma"
+C;X14;K"zinc citrate"
+C;X15;K"aroma"
+C;X16;K"aroma"
+C;X17;K"sodium cocoyl isethionate"
+C;X18;K"sodium monofluorophosphate"
+C;X19;K"aroma"
+C;Y9;X1;K"alumina"
+C;X2;K"alumina"
+C;X3;K"xanthum gum"
+C;X4;K"aroma"
+C;X5;K"xanthum gum"
+C;X6;K"cellulose gum"
+C;X7;K"aroma"
+C;X8;K"xanthum gum"
+C;X9;K"aroma"
+C;X10;K"sodium monofluorophosphate (1000ppm)"
+C;X11;K"sodiium fluoride (1450ppm)"
+C;X12;K"cellulose gum"
+C;X13;K"cellulose gum"
+C;X14;K"aroma"
+C;X15;K"sodiium fluoride (1450ppm)"
+C;X16;K"cellulose gum"
+C;X17;K"carrageenan"
+C;X18;K"mentha piperita"
+C;X19;K"menthol"
+C;Y10;X1;K"sodium lauryl sulfate"
+C;X2;K"sodium lauryl sulfate"
+C;X3;K"aroma"
+C;X4;K"titanium dioxide"
+C;X5;K"titanium dioxide"
+C;X6;K"sodium laureth sulfate"
+C;X7;K"carrageenan"
+C;X8;K"sodiium fluoride (1450ppm)"
+C;X9;K"sodium hydroxide"
+C;X10;K"Tetrasodium Pyrophosphate"
+C;X11;K"sodium saccharin"
+C;X12;K"cocamidopropyl betaine"
+C;X13;K"sodiium fluoride (1450ppm)"
+C;X14;K"sodiium fluoride (1450ppm)"
+C;X15;K"sodium saccharin"
+C;X16;K"cocamidopropyl betaine"
+C;X17;K"hydrated silica"
+C;X18;K"citrus limonum"
+C;X19;K"xanthum gum"
+C;Y11;X1;K"aroma"
+C;X2;K"aroma"
+C;X3;K"titanium dioxide"
+C;X4;K"PEG-6/PEG-8"
+C;X5;K"PEG-6"
+C;X6;K"titanium dioxide"
+C;X7;K"trisodium phosphate"
+C;X8;K"sodium saccharin"
+C;X9;K"carrageenan"
+C;X10;K"sodium saccharin"
+C;X11;K"limonene"
+C;X12;K"sodiium fluoride (1450ppm)"
+C;X13;K"sodium saccharin"
+C;X14;K"sodium saccharin"
+C;X15;K"cl 77891"
+C;X16;K"sodiium fluoride (1450ppm)"
+C;X17;K"benzyl alcohol"
+C;X18;K"foeniculum vulgare"
+C;X19;K"stevioside"
+C;Y12;X1;K"xanthum gum"
+C;X2;K"xanthum gum"
+C;X3;K"sodium citrate"
+C;X4;K"sodiium fluoride (1450ppm)"
+C;X5;K"sodiium fluoride (1450ppm)"
+C;X6;K"sodium lauryl sulfate"
+C;X7;K"stannous fluoride"
+C;X8;K"titanium dioxide"
+C;X9;K"sodiium fluoride (1450ppm)"
+C;X10;K"sodiium fluoride (450ppm)"
+C;X11;K"cl 77891"
+C;X12;K"sodium saccharin"
+C;X13;K"glycerin"
+C;X14;K"sodium hydroxide"
+C;X16;K"sodium saccharin"
+C;X17;K"parfum"
+C;X18;K"limonene"
+C;X19;K"citric acid"
+C;Y13;X1;K"cocamidopropyl betaine"
+C;X2;K"cocamidopropyl betaine"
+C;X3;K"sodiium fluoride"
+C;X4;K"sodium saccharin"
+C;X5;K"sodium saccharin"
+C;X6;K"citric acid"
+C;X7;K"sodium saccharin"
+C;X8;K"limonene"
+C;X9;K"triclosan"
+C;X11;K"cl 74260"
+C;X12;K"hydroxypropyl methylcellulose"
+C;X13;K"limonene"
+C;X14;K"limonene"
+C;X16;K"sodium hydroxide"
+C;X17;K"citral"
+C;X19;K"sodium fluoride"
+C;Y14;X1;K"titanium dioxide"
+C;X2;K"sodium citrate"
+C;X3;K"zinc chloride"
+C;X4;K"carrageenan"
+C;X5;K"carrageenan"
+C;X6;K"sodiium fluoride"
+C;X7;K"PVP"
+C;X8;K"cl 77491"
+C;X9;K"sodium saccharin"
+C;X11;K"cl 74160"
+C;X12;K"menthol"
+C;X13;K"cl 42090"
+C;X14;K"cl 77891"
+C;X16;K"limonene"
+C;X17;K"sodium saccharin"
+C;X19;K"eugenol"
+C;Y15;X1;K"carrageenan"
+C;X2;K"titanium dioxide"
+C;X3;K"sodium saccharin"
+C;X4;K"limonene"
+C;X5;K"limonene"
+C;X6;K"sodium saccharin"
+C;X7;K"stannous chloride"
+C;X9;K"limonene"
+C;X12;K"limonene"
+C;X16;K"cl 77891"
+C;X17;K"benzyl salicylate"
+C;Y16;X1;K"sodiium fluoride (1450ppm)"
+C;X2;K"carrageenan"
+C;X3;K"carrageenan"
+C;X4;K"cl 73360"
+C;X6;K"phonexyethanol"
+C;X7;K"xanthum gum"
+C;X9;K"cl 77891"
+C;X12;K"cl 42090"
+C;X16;K"cl 73360"
+C;X17;K"ethylhexylglycerin"
+C;Y17;X1;K"sodium saccharin"
+C;X2;K"sodiium fluoride"
+C;X3;K"limonene"
+C;X4;K"cl 74160"
+C;X6;K"methylparaben"
+C;X7;K"cocamidopropyl betaine"
+C;X12;K"cl 77891"
+C;X17;K"cocos nucifera extract"
+C;Y18;X1;K"sodium hydroxide"
+C;X2;K"zinc chloride"
+C;X3;K"cl 73360"
+C;X6;K"ethylparaben"
+C;X7;K"cinnamal"
+C;X17;K"alcohol"
+C;Y19;X1;K"limonene"
+C;X2;K"sodium saccharin"
+C;X3;K"cl 74260"
+C;X6;K"eugenol"
+C;X7;K"sodiium fluoride"
+C;X17;K"citrus aurantifolia extract"
+C;Y20;X1;K"cl 74160"
+C;X2;K"sodium hydroxide"
+C;X3;K"cl 74160"
+C;X6;K"limonene"
+C;X7;K"eugenol"
+C;X17;K"iris florentina root extract"
+C;Y21;X2;K"limonene"
+C;X7;K"sodium hydroxide"
+C;X17;K"potassium sorbate"
+C;Y22;X2;K"cl 74160"
+C;X7;K"cl 74160"
+C;X17;K"sodium benzoate"
+C;Y23;X2;K"cl 74260"
+C;X7;K"sodium benzoate"
+C;X17;K"tocopherol"
+E
